@@ -1,3 +1,3 @@
 # Module
 
-Asentaa Lampin, vlc playerin ja firefoxin.
+Asentaa PHP-pearin, mysql-serverin, vlc media playerin ja firefoxin.
