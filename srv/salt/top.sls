@@ -1,4 +1,4 @@
-base
+base:
   '*':
-    - ohjelmat
-    - lamp
+     - ohjelmat
+     - lamp
